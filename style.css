@@ -92,6 +92,9 @@ p{
     width: 500px;
     margin: 10px;
 }
+.character{
+    border-radius: 25px;
+}
 
 .button{
  width: 200px;
@@ -305,6 +308,7 @@ input{
     }
 
     .menu_small_item {
+        font-size: large;
         height: 2em;
         display: flex;
         justify-content: center;
